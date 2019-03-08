@@ -1,4 +1,7 @@
 # Dice-Game
-Download And Fresh The Page To Play
+Download And Refresh The Page To Play
+
+
+Or - Play Here
 
 https://adamjeanlaurent.github.io/Dice-Game/
